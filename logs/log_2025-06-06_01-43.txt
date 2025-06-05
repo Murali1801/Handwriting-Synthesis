@@ -1,0 +1,3 @@
+[[06/06/2025 01:43:33 AM]]  * Detected change in 'C:\\Users\\mural\\Anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+[[06/06/2025 01:43:33 AM]]  * Detected change in 'C:\\Users\\mural\\Anaconda3\\Lib\\site-packages\\flask_cors\\extension.py', reloading
+[[06/06/2025 01:43:33 AM]] 127.0.0.1 - - [06/Jun/2025 01:43:33] "[35m[1mPOST /generate HTTP/1.1[0m" 500 -
